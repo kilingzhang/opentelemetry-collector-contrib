@@ -15,7 +15,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.36.1-0.20210922072157-086d5f473ab0
 	go.opentelemetry.io/collector/model v0.36.1-0.20210922072157-086d5f473ab0
-	go.uber.org/zap v1.19.1
+	go.uber.org/zap v1.21.0
 	k8s.io/api v0.22.2
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
