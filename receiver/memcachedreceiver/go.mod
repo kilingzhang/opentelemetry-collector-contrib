@@ -6,7 +6,7 @@ require (
 	github.com/grobie/gomemcache v0.0.0-20180201122607-1f779c573665
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.36.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/scraperhelper v0.36.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.36.1-0.20210922072157-086d5f473ab0
 	go.opentelemetry.io/collector/model v0.36.1-0.20210922072157-086d5f473ab0
 	go.uber.org/zap v1.19.1
