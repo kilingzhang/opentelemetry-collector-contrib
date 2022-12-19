@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/mongodb-forks/digest v1.0.2
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/interval v0.34.0
-	go.mongodb.org/atlas v0.12.0
+	go.mongodb.org/atlas v0.20.0
 	go.opentelemetry.io/collector v0.36.1-0.20210922072157-086d5f473ab0
 	go.uber.org/zap v1.19.1
 	golang.org/x/sys v0.0.0-20210902050250-f475640dd07b // indirect
@@ -22,7 +22,7 @@ require (
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.2 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/openlyinc/pointy v1.1.2 // indirect
+	github.com/openlyinc/pointy v1.2.0 // indirect
 	github.com/pelletier/go-toml v1.9.3 // indirect
 	github.com/rogpeppe/go-internal v1.6.1 // indirect
 	github.com/spf13/cast v1.4.1 // indirect
